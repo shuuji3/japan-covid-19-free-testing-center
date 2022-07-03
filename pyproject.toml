@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "japan-covid-19-free-testing-center"
+version = "0.1.0"
+description = ""
+authors = ["TAKAHASHI Shuuji <shuuji3@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.28.1"
+pandas = "^1.4.3"
+openpyxl = "^3.0.10"
+bs4 = "^0.0.1"
+lxml = "^4.9.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
