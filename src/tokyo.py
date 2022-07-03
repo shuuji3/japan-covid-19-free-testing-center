@@ -1,6 +1,7 @@
 # Chiba: fetch the latest Excel data and save it as CSV file
 from __future__ import annotations
 
+import os
 from datetime import date
 
 import pandas as pd
@@ -16,7 +17,9 @@ def main():
     df['抗原定性検査'] = df['抗原定性検査'].apply(normalize_test_type)
 
     update_date = get_last_update_date()
-    df.to_csv(f'../data/tokyo/{update_date}.csv', index=None)
+    dirname = os.path.dirname(__file__)
+    save_path = os.path.join(dirname, f'../data/tokyo/{update_date}.csv')
+    df.to_csv(save_path, index=None)
 
 
 def get_latest_excel_url() -> str:
