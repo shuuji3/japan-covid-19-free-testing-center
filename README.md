@@ -7,6 +7,7 @@ List of COVID-19 testing center in Japan
 | Prefecture | Website URL | Data URL | Note |
 | -- | -- | -- | -- |
 | Hokkaido | [PCR検査　北海道　ワクチン・検査パッケージ対応 抗原定性検査PCR検査](https://kensa-hokkaido.jp/) | - | :-1: static website |
+| Aomori | [【PCR検査等無料化事業】無料検査について - 青森県庁ホームページ](https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/aomori_free-test.html#freetest) | https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/free-test_0614-5list.pdf | :-1: non-machine-readable PDF |
 | Akita | [秋田県PCR等検査無料化事業](https://pcr-akita.com/) | https://pcr-akita.com/images/file/kensa.pdf | :-1: non-machine-readable PDF |
 | Chiba | [千葉県新型コロナウイルス感染症に係るPCR等検査無料化事業／千葉県](https://www.pref.chiba.lg.jp/shippei/kansenshou/pcrmuryouka.html#kensajisshitenpoichiran) | :-1: No stable URL | :-1: Excel |
 | Tokyo | [PCR等検査無料化に関するご案内](https://tokyo-kensasuishin.jp/) | https://tokyo-kensasuishin.jp/jigyousha/csv | CSV (:-1: bad domain name) |
