@@ -34,3 +34,8 @@ def normalize_test_type(availability: str) -> bool:
     if availability in ['○', '〇']:
         return True
     return False
+
+
+def convert_excel_date_number(date_num: int) -> date:
+    """It looks like Excel default date system starts with 1900-01-01 as `1`."""
+    return datetime.date.fromisoformat('1899-12-30')+datetime.timedelta(days=date_num)
