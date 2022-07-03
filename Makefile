@@ -8,3 +8,6 @@ tokyo:
 
 hokkaido:
 	DOWNLOAD_DELAY=1 scrapy runspider src/hokkaido.py -O data/hokkaido/$(shell date +%Y-%m-%d).csv
+
+iwate:
+	python src/iwate.py
