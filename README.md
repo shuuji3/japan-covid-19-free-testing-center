@@ -19,3 +19,4 @@ List of COVID-19 testing center in Japan
 ## Reference
 
 - 各都道府県の無料検査事業サイト｜内閣官房新型コロナウイルス感染症対策推進室 - https://corona.go.jp/free_inspection/ (inspection?)
+- 自費検査を提供する検査機関一覧｜厚生労働省 - https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/covid19-jihikensa_00001.html
