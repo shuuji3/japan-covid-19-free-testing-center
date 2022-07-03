@@ -17,7 +17,7 @@ def normalize_date(d: datetime.datetime | str) -> date:
     if type(d) is str:
         if '令和' in d:
             d = unicodedata.normalize('NFKC', d)
-            regex = re.compile(r'.*令和(?P<year>\d+)年(?P<month>\d+)月(?P<day>\d+)日?.*')
+            regex = re.compile(r'.*令和(?P<year>\d+)年\s*(?P<month>\d+)月\s*(?P<day>\d+)日?.*')
             m = regex.match(d)
             return datetime.date(year=int(m['year']) + 2018, month=int(m['month']), day=int(m['day']))
         if '/' in d:
