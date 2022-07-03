@@ -12,7 +12,7 @@ List of COVID-19 testing center in Japan
 | ✅ | 4 | 宮城県 | [【無料検査】ワクチン検査パッケージ・対象者全員検査等定着促進事業について - 宮城県公式ウェブサイト](https://www.pref.miyagi.jp/soshiki/kikisom/vtp/teityaku.html) | :-1: No stable URL | :-1: Excel |
 |  | 5 | 秋田県 | [秋田県PCR等検査無料化事業](https://pcr-akita.com/) | [PDF](https://pcr-akita.com/images/file/kensa.pdf) | :-1: non-machine-readable PDF |
 |  | 6 | 山形県 | [山形県 ワクチン検査パッケージ・対象者全員検査等定着促進事業「抗原定性検査」「PCR検査」](https://yamagata-pcr.com/) | [PDF](https://yamagata-pcr.com/pdf/list2.pdf) | :-1: non-machine-readable PDF |
-|  | 7 | 福島県 |  |  |  |
+|  | 7 | 福島県 | [福島県に登録している無料検査実施事業者 - 福島県ホームページ](https://www.pref.fukushima.lg.jp/sec/01010a/tourokujigyousha.html) | maybe unstable URL | :-1: Excel |
 |  | 8 | 茨城県 | [茨城県新型コロナウイルス感染症に係る薬局等での無料検査について／茨城県](https://www.pref.ibaraki.jp/hokenfukushi/yobo/yobo/vtpkensamuryo.html) | [PDF](https://www.knt.co.jp/ec/2022/ibaraki_vaccines/pdf/ichiran_new.pdf) | :-1: non-machine-readable PDF |
 |  | 9 | 栃木県 | [栃木県／ワクチン・検査パッケージ等を利用するための検査及び感染拡大傾向時等の検査の無料化について](https://www.pref.tochigi.lg.jp/e04/muryoukennsa.html#k2101042) | [PDF](https://www.pref.tochigi.lg.jp/e04/documents/20220620171230.pdf) | :-1: non-machine-readable PDF |
 |  | 10 | 群馬県 |  |  |  |
