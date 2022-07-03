@@ -11,6 +11,7 @@ pandas = "^1.4.3"
 openpyxl = "^3.0.10"
 bs4 = "^0.0.1"
 lxml = "^4.9.1"
+Scrapy = "^2.6.1"
 
 [tool.poetry.dev-dependencies]
 
