@@ -1,14 +1,14 @@
 # Chiba: fetch the latest Excel data and save it as CSV file
 from __future__ import annotations
 
-import datetime
 import re
-import unicodedata
 from datetime import date
 
 import bs4
 import pandas as pd
 import requests
+
+from utils import normalize_date, normalize_test_type
 
 DOMAIN = 'https://www.pref.chiba.lg.jp'
 WEBSITE_URL = f'{DOMAIN}/shippei/kansenshou/pcrmuryouka.html'
@@ -47,30 +47,6 @@ def get_soup():
     r.encoding = 'utf-8'
     soup = bs4.BeautifulSoup(r.text, 'lxml')
     return soup
-
-
-def normalize_date(d: datetime.datetime | str) -> date:
-    """Normalize date strings mixed with Japanese and Western representation. Sometimes, they are ill-formatted.
-
-    Example: '令和４年8月１1' -> '2022-08-11'
-    """
-    if type(d) is datetime.datetime:
-        return d.date()
-
-    if type(d) is str:
-        d = unicodedata.normalize('NFKC', d)
-        regex = re.compile(r'.*令和(?P<year>\d+)年(?P<month>\d+)月(?P<day>\d+)日?.*')
-        m = regex.match(d)
-        return datetime.date(year=int(m['year']) + 2018, month=int(m['month']), day=int(m['day']))
-
-    raise ValueError('date is unexpected value')
-
-
-def normalize_test_type(availablility: str) -> bool:
-    """Convert '○' or null to a boolean value."""
-    if availablility in ['○', '〇']:
-        return True
-    return False
 
 
 if __name__ == '__main__':
