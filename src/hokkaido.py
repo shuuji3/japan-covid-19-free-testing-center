@@ -1,3 +1,5 @@
+# Hokkaido: Scrape static website and save it as a CSV file
+
 import scrapy
 
 
