@@ -1,4 +1,4 @@
-# Chiba: fetch the latest Excel data and save it as CSV file
+# Miyagi: fetch the latest Excel data and save it as CSV file
 from __future__ import annotations
 
 import os
