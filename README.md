@@ -45,7 +45,7 @@ List of COVID-19 testing center in Japan
 |  | 37 | 香川県 |  |  |  |
 |  | 38 | 愛媛県 |  |  |  |
 |  | 39 | 高知県 |  |  |  |
-|  | 40 | 福岡県 | [検索結果⼀覧 | 無症状者を対象とした新型コロナウイルス無料検査](https://covid19-testing.pref.fukuoka.lg.jp/facilities/?keywords=&action=search#search-anchor) |  | :-1: website |
+|  | 40 | 福岡県 | [無症状者を対象とした新型コロナウイルス無料検査](https://covid19-testing.pref.fukuoka.lg.jp/facilities/?keywords=&action=search#search-anchor) |  | :-1: website |
 |  | 41 | 佐賀県 |  |  |  |
 |  | 42 | 長崎県 |  |  |  |
 |  | 43 | 熊本県 |  |  |  |
