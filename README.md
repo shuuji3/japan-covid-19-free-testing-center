@@ -6,9 +6,9 @@ List of COVID-19 testing center in Japan
 
 | Done | # | Prefecture | Website URL | Data URL | Note |
 | -- | -- | -- | -- | -- | -- |
-| ✅ | 1 | 北海道 | [PCR検査　北海道　ワクチン・検査パッケージ対応 抗原定性検査PCR検査](https://kensa-hokkaido.jp/) | - | :-1: static website |
+| ✅ | 1 | 北海道 | [PCR検査　北海道　ワクチン・検査パッケージ対応 抗原定性検査PCR検査](https://kensa-hokkaido.jp/) | - | :-1: website |
 |  | 2 | 青森県 | [【PCR検査等無料化事業】無料検査について - 青森県庁ホームページ](https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/aomori_free-test.html#freetest) | [PDF](https://www.pref.aomori.lg.jp/soshiki/kenko/hoken/files/free-test_0614-5list.pdf) | :-1: non-machine-readable PDF |
-| ✅ | 3 | 岩手県 | [岩手県 - PCR等検査の無料受検について](https://www.pref.iwate.jp/kurashikankyou/iryou/seido/1048469/1048471.html) | - | :-1: static website (or PDF) |
+| ✅ | 3 | 岩手県 | [岩手県 - PCR等検査の無料受検について](https://www.pref.iwate.jp/kurashikankyou/iryou/seido/1048469/1048471.html) | - | :-1: website (or PDF) |
 | ✅ | 4 | 宮城県 | [【無料検査】ワクチン検査パッケージ・対象者全員検査等定着促進事業について - 宮城県公式ウェブサイト](https://www.pref.miyagi.jp/soshiki/kikisom/vtp/teityaku.html) | :-1: No stable URL | :-1: Excel |
 |  | 5 | 秋田県 | [秋田県PCR等検査無料化事業](https://pcr-akita.com/) | [PDF](https://pcr-akita.com/images/file/kensa.pdf) | :-1: non-machine-readable PDF |
 |  | 6 | 山形県 | [山形県 ワクチン検査パッケージ・対象者全員検査等定着促進事業「抗原定性検査」「PCR検査」](https://yamagata-pcr.com/) | [PDF](https://yamagata-pcr.com/pdf/list2.pdf) | :-1: non-machine-readable PDF |
@@ -19,13 +19,13 @@ List of COVID-19 testing center in Japan
 |  | 11 | 埼玉県 |  |  |  |
 | ✅ | 12 | 千葉県 | [千葉県新型コロナウイルス感染症に係るPCR等検査無料化事業／千葉県](https://www.pref.chiba.lg.jp/shippei/kansenshou/pcrmuryouka.html#kensajisshitenpoichiran) | :-1: No stable URL | :-1: Excel |
 | ✅ | 13 | 東京都 | [PCR等検査無料化に関するご案内](https://tokyo-kensasuishin.jp/) | [CSV](https://tokyo-kensasuishin.jp/jigyousha/csv) | ✅ CSV (:-1: bad domain name) |
-| ✅ | 14 | 神奈川県 | [無料検査を実施している事業者一覧](https://3ce11065.viewer.kintoneapp.com/public/e7332448a3594bdd3487cfb6616126aa24ab906ed6f58158f8e30b38d0a436f1#/) | no open data? | :-1: static website (kintone app) |
-|  | 15 | 新潟県 |  |  |  |
-| ✅ | 16 | 富山県 | [富山県ＰＣＲ等検査無料化事業](https://toyama-muryokensa.jp/?sfid=72) | :-1: No stable URL | :-1: Excel (or static website) |
-|  | 17 | 石川県 |  |  |  |
-|  | 18 | 福井県 |  |  |  |
-|  | 19 | 山梨県 |  |  |  |
-|  | 20 | 長野県 |  |  |  |
+| ✅ | 14 | 神奈川県 | [無料検査を実施している事業者一覧](https://3ce11065.viewer.kintoneapp.com/public/e7332448a3594bdd3487cfb6616126aa24ab906ed6f58158f8e30b38d0a436f1#/) | No open data? | :-1: website (kintone app) |
+|  | 15 | 新潟県 | [新潟県 ワクチン・検査パッケージ対応「抗原定性検査/PCR検査」~2022年3月31日まで](https://niigata-corona-kensa.com/) | - | :-1: website (or PDF) |
+| ✅ | 16 | 富山県 | [富山県ＰＣＲ等検査無料化事業](https://toyama-muryokensa.jp/?sfid=72) | :-1: No stable URL | :-1: Excel (or website) |
+|  | 17 | 石川県 | [石川県／無料検査の実施場所について](https://www.pref.ishikawa.lg.jp/kansen/muryokensabasyo.html) | :-1: No stable URL | :-1: Excel |
+|  | 18 | 福井県 | [福井県PCR等検査無料化 特設サイト](https://www.fukui-pcr.com/) | :-1: No stable URL | :-1: PDF |
+|  | 19 | 山梨県 | [山梨県／ワクチン検査・パッケージ制度等の利用に必要な検査について](https://www.pref.yamanashi.jp/koucho/coronavirus/vtpkensa.html) | :-1: No stable URL | :-1: PDF |
+|  | 20 | 長野県 | [新型コロナウイルス感染症の無料検査について／長野県](https://www.pref.nagano.lg.jp/kansensho-taisaku/vtp/kensa.html#itiranhyou) |  | Google My Map or PDF |
 |  | 21 | 岐阜県 |  |  |  |
 |  | 22 | 静岡県 |  |  |  |
 |  | 23 | 愛知県 |  |  |  |
@@ -45,14 +45,14 @@ List of COVID-19 testing center in Japan
 |  | 37 | 香川県 |  |  |  |
 |  | 38 | 愛媛県 |  |  |  |
 |  | 39 | 高知県 |  |  |  |
-|  | 40 | 福岡県 |  |  |  |
+|  | 40 | 福岡県 | [検索結果⼀覧 | 無症状者を対象とした新型コロナウイルス無料検査](https://covid19-testing.pref.fukuoka.lg.jp/facilities/?keywords=&action=search#search-anchor) |  | :-1: website |
 |  | 41 | 佐賀県 |  |  |  |
 |  | 42 | 長崎県 |  |  |  |
 |  | 43 | 熊本県 |  |  |  |
 |  | 44 | 大分県 |  |  |  |
 |  | 45 | 宮崎県 |  |  |  |
 |  | 46 | 鹿児島県 |  |  |  |
-|  | 47 | 沖縄県 |  |  |  |
+|  | 47 | 沖縄県 | [無料検査について／沖縄県](https://www.pref.okinawa.jp/site/chijiko/kohokoryu/pcr-test/free-test/index.html) |  | :-1: PDF |
 
 ## References
 
