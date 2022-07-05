@@ -41,7 +41,7 @@ List of COVID-19 testing center in Japan
 |  | 33 | 岡山県 |  |  |  |
 |  | 34 | 広島県 |  |  |  |
 |  | 35 | 山口県 |  |  |  |
-|  | 36 | 徳島県 |  |  |  |
+|  | 36 | 徳島県 | [R4_事業者一覧TOP_徳島県ワクチン 検査パッケージ等検査サイト](https://tokushima-kensamuryo.info/list) |  | :-1: website or Google My Maps |
 |  | 37 | 香川県 |  |  |  |
 |  | 38 | 愛媛県 |  |  |  |
 |  | 39 | 高知県 |  |  |  |
