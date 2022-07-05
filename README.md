@@ -21,7 +21,7 @@ List of COVID-19 testing center in Japan
 | ✅ | 13 | 東京都 | [PCR等検査無料化に関するご案内](https://tokyo-kensasuishin.jp/) | [CSV](https://tokyo-kensasuishin.jp/jigyousha/csv) | ✅ CSV (:-1: bad domain name) |
 |  | 14 | 神奈川県 |  |  |  |
 |  | 15 | 新潟県 |  |  |  |
-|  | 16 | 富山県 |  |  |  |
+| ✅ | 16 | 富山県 | [富山県ＰＣＲ等検査無料化事業](https://toyama-muryokensa.jp/?sfid=72) | :-1: No stable URL | :-1: Excel (or static website) |
 |  | 17 | 石川県 |  |  |  |
 |  | 18 | 福井県 |  |  |  |
 |  | 19 | 山梨県 |  |  |  |
