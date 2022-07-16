@@ -15,8 +15,8 @@ List of COVID-19 testing center in Japan
 |  | 7 | 福島県 | [福島県に登録している無料検査実施事業者 - 福島県ホームページ](https://www.pref.fukushima.lg.jp/sec/01010a/tourokujigyousha.html) | maybe unstable URL | :-1: Excel |
 |  | 8 | 茨城県 | [茨城県新型コロナウイルス感染症に係る薬局等での無料検査について／茨城県](https://www.pref.ibaraki.jp/hokenfukushi/yobo/yobo/vtpkensamuryo.html) | [PDF](https://www.knt.co.jp/ec/2022/ibaraki_vaccines/pdf/ichiran_new.pdf) | :-1: non-machine-readable PDF |
 |  | 9 | 栃木県 | [栃木県／ワクチン・検査パッケージ等を利用するための検査及び感染拡大傾向時等の検査の無料化について](https://www.pref.tochigi.lg.jp/e04/muryoukennsa.html#k2101042) | [PDF](https://www.pref.tochigi.lg.jp/e04/documents/20220620171230.pdf) | :-1: non-machine-readable PDF |
-|  | 10 | 群馬県 |  |  |  |
-|  | 11 | 埼玉県 |  |  |  |
+|  | 10 | 群馬県 | [群馬県 - 群馬県新型コロナ検査促進事業の実施について（検査無料化事業）](https://www.pref.gunma.jp/02/d29g_00456.html) | :-1: No stable URL | :-1: HTML table or PDF or Excel |
+|  | 11 | 埼玉県 | [埼玉県PCR検査等無料化事業（県民の皆さま） - 埼玉県](https://www.pref.saitama.lg.jp/a0710/vtppe.html) | - | :-1: Static website with uncommon format |
 | ✅ | 12 | 千葉県 | [千葉県新型コロナウイルス感染症に係るPCR等検査無料化事業／千葉県](https://www.pref.chiba.lg.jp/shippei/kansenshou/pcrmuryouka.html#kensajisshitenpoichiran) | :-1: No stable URL | :-1: Excel |
 | ✅ | 13 | 東京都 | [PCR等検査無料化に関するご案内](https://tokyo-kensasuishin.jp/) | [CSV](https://tokyo-kensasuishin.jp/jigyousha/csv) | ✅ CSV (:-1: bad domain name) |
 | ✅ | 14 | 神奈川県 | [無料検査を実施している事業者一覧](https://3ce11065.viewer.kintoneapp.com/public/e7332448a3594bdd3487cfb6616126aa24ab906ed6f58158f8e30b38d0a436f1#/) | No open data? | :-1: website (kintone app) |
